@@ -1,2 +1,6 @@
 1.deafault file_name  ki class banta hai 
 2. java is object and class based ko used karta hai  
+3. for COMPLATION/RUN go to folder where java file is present
+3.1 make .class file using    javac filename.java
+3.2 run file    java filename.java 
+TO find intger value from string intVal=Integer.parseInt(args[0])

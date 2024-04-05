@@ -1,8 +1,10 @@
+package class_obj;
 // variable in the class is called field
 // function inside clss is called metheod
 // java is class based component so its has one main clss which include main froom excution start
 // constructer is method which called automatically at time of intiallasing 
 // constructor has not return type ,its used to set the field of objcet 
+// ksi bhi progrme me jitna class hoga utna hi .class fiel bana jata hia foleder me 
 class circle{
     
     int r;

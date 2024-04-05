@@ -1,0 +1,157 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "type": "java",
+      "name": "AccesModifier",
+      "request": "launch",
+      "mainClass": "AccesModifier",
+      "projectName": "java_bd801f0d"
+    },
+    {
+      "type": "java",
+      "name": "hello",
+      "request": "launch",
+      "mainClass": "hello",
+      "projectName": "java_bd801f0d"
+    },
+    {
+      "type": "java",
+      "name": "implicit",
+      "request": "launch",
+      "mainClass": "casting.implicit",
+      "projectName": "java_bd801f0d"
+    },
+    {
+      "type": "java",
+      "name": "implicit",
+      "request": "launch",
+      "mainClass": "cascading.implicit",
+      "projectName": "java_bd801f0d"
+    },
+    {
+      "type": "java",
+      "name": "AbstracT",
+      "request": "launch",
+      "mainClass": "InheritanceF.AbstracT",
+      "projectName": "java_bd801f0d"
+    },
+    {
+      "type": "java",
+      "name": "AbstrcT",
+      "request": "launch",
+      "mainClass": "InheritanceF.AbstrcT",
+      "projectName": "java_bd801f0d"
+    },
+    {
+      "type": "java",
+      "name": "DYnamicBinding",
+      "request": "launch",
+      "mainClass": "InheritanceF.DYnamicBinding",
+      "projectName": "java_bd801f0d"
+    },
+    {
+      "type": "java",
+      "name": "inhre",
+      "request": "launch",
+      "mainClass": "InheritanceF.inhre",
+      "projectName": "java_bd801f0d"
+    },
+    {
+      "type": "java",
+      "name": "arr",
+      "request": "launch",
+      "mainClass": "arr_vec.arr",
+      "projectName": "java_bd801f0d"
+    },
+    {
+      "type": "java",
+      "name": "shortHandifelse",
+      "request": "launch",
+      "mainClass": "CondLOOP.shortHandifelse",
+      "projectName": "java_bd801f0d"
+    },
+    {
+      "type": "java",
+      "name": "MathsMain",
+      "request": "launch",
+      "mainClass": "MATHS.MathsMain",
+      "projectName": "java_bd801f0d"
+    },
+    {
+      "type": "java",
+      "name": "methodMain",
+      "request": "launch",
+      "mainClass": "StringC.methodMain",
+      "projectName": "java_bd801f0d"
+    },
+    {
+      "type": "java",
+      "name": "OpratorMain",
+      "request": "launch",
+      "mainClass": "OperatoR.OpratorMain",
+      "projectName": "java_bd801f0d"
+    },
+    {
+      "type": "java",
+      "name": "IntType",
+      "request": "launch",
+      "mainClass": "TypeCasting.IntType",
+      "projectName": "java_bd801f0d"
+    },
+    {
+      "type": "java",
+      "name": "Factorial",
+      "request": "launch",
+      "mainClass": "RecursionQ.Factorial",
+      "projectName": "java_bd801f0d"
+    },
+    {
+      "type": "java",
+      "name": "InputKey",
+      "request": "launch",
+      "mainClass": "Input_output.InputKey",
+      "projectName": "java_bd801f0d"
+    },
+    {
+      "type": "java",
+      "name": "outputMeth",
+      "request": "launch",
+      "mainClass": "Input_output.outputMeth",
+      "projectName": "java_bd801f0d"
+    },
+    {
+      "type": "java",
+      "name": "outputMeth",
+      "request": "launch",
+      "mainClass": "input_output.outputMeth",
+      "projectName": "java_bd801f0d"
+    },
+    {
+      "type": "java",
+      "name": "inputMeth",
+      "request": "launch",
+      "mainClass": "input_output.inputMeth",
+      "projectName": "java_bd801f0d"
+    },
+    {
+      "name": "C/C++ Runner: Debug Session",
+      "type": "cppdbg",
+      "request": "launch",
+      "args": [],
+      "stopAtEntry": false,
+      "externalConsole": true,
+      "cwd": "c:/Desktop/noteimp/APPORACH",
+      "program": "c:/Desktop/noteimp/APPORACH/build/Debug/outDebug",
+      "MIMode": "gdb",
+      "miDebuggerPath": "gdb",
+      "setupCommands": [
+        {
+          "description": "Enable pretty-printing for gdb",
+          "text": "-enable-pretty-printing",
+          "ignoreFailures": true
+        }
+      ]
+    }
+  ]
+}
