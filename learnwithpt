@@ -1,0 +1,2 @@
+super key word// used to call parent class method /constructor
+parent obj=new abstract_clas();// as abstract_class constructor call so abstract class object is form 

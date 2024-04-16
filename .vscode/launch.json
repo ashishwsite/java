@@ -3,6 +3,27 @@
   "configurations": [
     {
       "type": "java",
+      "name": "threading",
+      "request": "launch",
+      "mainClass": "multithreading.threading",
+      "projectName": "java_bd801f0d"
+    },
+    {
+      "type": "java",
+      "name": "threadingtinro",
+      "request": "launch",
+      "mainClass": "multithreading.threadingtinro",
+      "projectName": "java_bd801f0d"
+    },
+    {
+      "type": "java",
+      "name": "intro",
+      "request": "launch",
+      "mainClass": "multithreading.intro",
+      "projectName": "java_bd801f0d"
+    },
+    {
+      "type": "java",
       "name": "AccesModifier",
       "request": "launch",
       "mainClass": "AccesModifier",
