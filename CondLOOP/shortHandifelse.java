@@ -1,10 +1,21 @@
-package CondLOOP;
+
+import java.util.*;
+ class check{
+    check(){
+        System.out.println("check construtor is call ");
+    }
+    public void show(){
+        System.out.println("this is show function in object ");
+    }
+}
 
 public class shortHandifelse {
     // pahle condtion check karta hai 
-    // condtion ,?(if) {if running code }, :(elese){else running code }
+    // condtion ,?(if) {if running code } :(elese) {else running code }
+   
     public static void main(String args[]){
         int a=9 ,b=23;
+        check c1=new check();
         // ? ->if  then run condtion 
         // condtion is return at strating me 
         boolean ans=(a>b)? true :false;

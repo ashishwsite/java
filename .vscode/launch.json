@@ -3,6 +3,27 @@
   "configurations": [
     {
       "type": "java",
+      "name": "MathsMain",
+      "request": "launch",
+      "mainClass": "MathsMain",
+      "projectName": "java_bd801f0d"
+    },
+    {
+      "type": "java",
+      "name": "classint",
+      "request": "launch",
+      "mainClass": "class_obj.classint",
+      "projectName": "java_bd801f0d"
+    },
+    {
+      "type": "java",
+      "name": "threading",
+      "request": "launch",
+      "mainClass": "threading",
+      "projectName": "java_bd801f0d"
+    },
+    {
+      "type": "java",
       "name": "threading",
       "request": "launch",
       "mainClass": "multithreading.threading",

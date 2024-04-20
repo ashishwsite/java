@@ -1,6 +1,4 @@
-package arr_vec; //THIS IS PACKAGE NAME /FOLDER NAME 
-
-
+// package arr_vec; //THIS IS PACKAGE NAME /FOLDER Name where .class stor
 public class arr {// FILE NAME 
   public static void main(String[] args) { // MAIN FUNCTION START
     // int arra[6 ] thsi is not work
@@ -20,6 +18,7 @@ public class arr {// FILE NAME
     // MULTI DIMENSION ARR 
     int[][] twoDArr={{1,2,2}};
     char[][] charArr={{'a','f'},{'d','o'}};
+    System.out.println(twoDArr[0][0]);
 
   
 

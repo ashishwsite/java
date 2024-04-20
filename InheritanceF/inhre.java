@@ -1,4 +1,4 @@
-package InheritanceF;
+
 // define a super/parent /main class 
 class cars{
      int wheel=4;

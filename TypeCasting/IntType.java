@@ -1,4 +1,3 @@
-package TypeCasting;
 
 import javax.swing.text.Style;
 
