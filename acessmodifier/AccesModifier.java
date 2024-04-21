@@ -3,6 +3,9 @@ import java.util.*;
 
 import A;
 import B;
+// Providing controlled access: protected and default have package level access control. 
+// A protected member is accessible by classes in the same package and its subclasses.
+//  A default member (without any access specifier) is accessible by classes in the same package only.
 
 // ACESS MODIFIER ARE:
 // PUBLIC:its can acess into the present package as well as other package 

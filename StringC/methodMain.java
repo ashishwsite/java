@@ -1,4 +1,4 @@
-package StringC;
+
 
 public class methodMain {
 

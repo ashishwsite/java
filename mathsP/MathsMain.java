@@ -1,11 +1,11 @@
 
-package mathsP;
-import mathsP.*;
+// package mathsP;
+// import mathsP.*;
 class series{
     int  n;
     void counting(int n){
         for(int i=1;i<=n;i++)
-        System.out.print(i);
+        System.out.print(i + " ");
     }
     void odd(int n){
 for(int i=1;i<=n;i++){
