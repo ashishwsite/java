@@ -1,6 +1,8 @@
 
 // ABSTRACT : IT Way inwhich only function is nsame in super class , its defination is describe in its sub class 
 //abstraction means hidding the some info from user view point 
+package InheritanceF;
+import InheritanceF.*;
 abstract class First{
     abstract void show();
 }
@@ -12,6 +14,9 @@ class Second extends First{
 public class AbstracT {
     public static void main(String args[]){
      //   First(abstract_class_name) f1=new Second()(inherite_class_constructor) ;
+    //  tata.obj=new tata();
+    cars obj=new cars();
+     obj.show();
    First f1=new Second() ;
  f1.show();
 

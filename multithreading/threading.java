@@ -35,14 +35,24 @@ import java.util.*;
 
 public class threading {
     public static void main(String args[]){
-        System.out.println("this is multithreading tutorial");
-        System.out.println("where is .class file ");
-        System.out.println("whout making the .class file progrmae is running fine ");
-        System.out.println("calling of java thread");
+        // System.out.println("this is multithreading tutorial");
+        // System.out.println("where is .class file ");
+        // System.out.println("whout making the .class file progrmae is running fine ");
+        // System.out.println("calling of java thread");
         thread1 t1=new thread1();
         thread2 t2=new thread2();
-        t1.start();
-        t2.start();
+        // t1.start();
+        // t2.start();
+
+        // thread method 
+        Thread tread=Thread.currentThread(); // its return active running thread;
+        System.out.println(tread.activeCount());// number active thread 
+
+        // constructr of thread
+        // Thread tc=new Thread(Runnable target (target is to run thread) ,String thread_name);
+        // Thread tc=new Thread(Runnable target,String st);
+
+        
 
     }
     

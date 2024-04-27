@@ -3,6 +3,20 @@
   "configurations": [
     {
       "type": "java",
+      "name": "pra",
+      "request": "launch",
+      "mainClass": "pra",
+      "projectName": "java_bd801f0d"
+    },
+    {
+      "type": "java",
+      "name": "Pbasic",
+      "request": "launch",
+      "mainClass": "packageL.Pbasic",
+      "projectName": "java_bd801f0d"
+    },
+    {
+      "type": "java",
       "name": "MathsMain",
       "request": "launch",
       "mainClass": "MathsMain",
